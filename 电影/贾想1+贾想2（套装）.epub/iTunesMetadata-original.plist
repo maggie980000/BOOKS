@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>贾樟柯、万佳欢</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>2337B8CB347922937D2A1F18C9871458</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/Images/cover00317.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>AB8A7E481B2BB0528164BF3240319A65</string>
+		<key>publisher-unique-id</key>
+		<string>1958772862</string>
+		<key>unique-id</key>
+		<integer>690432757546810924</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>贾想1+贾想2（套装）</string>
+	<key>playlistName</key>
+	<string>贾想1+贾想2（套装）</string>
+	<key>releaseDate</key>
+	<string>2018-01-01</string>
+</dict>
+</plist>

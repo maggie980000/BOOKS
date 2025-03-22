@@ -1,0 +1,382 @@
+/*---------标题------------*/
+/*文前标题*/
+.front{
+	
+	font-size:1.3em;
+	margin-top:2em;
+	margin-bottom:1em;
+}
+/*文后标题*/
+.back{
+	
+	font-size:1.3em;
+	margin-top:2em;
+	margin-bottom:1em;
+}
+/*一级标题*/
+h1 {
+	
+	text-align:center;
+	font-size:1.8em;
+	margin-top:2em;
+	margin-bottom:2em;
+	margin-left:0%;
+}
+/*二级标题*/
+h2 {
+	
+	text-align:left;
+	font-size:1.3em;
+	margin-top:2em;
+	margin-bottom:2em;
+	margin-left:0%;
+}
+/*三级标题*/
+h3 {
+	
+	font-weight:bold;
+	font-size:1.1em;
+	margin-top:2em;
+	margin-bottom:2em;
+	margin-left:0%;
+}
+/*四级标题*/
+h4 {
+	
+	font-weight:bold;
+	font-size:1rem;
+	margin-top:2em;
+	margin-bottom:2em;
+	text-indent:2em;
+}
+/*五级标题*/
+h5 {
+	
+	font-weight:bold;
+	font-size:1rem;
+	margin-top:2em;
+	margin-bottom:2em;
+	text-indent:2em;
+}
+
+
+/*----------图片-----------*/
+/*四封图片*/
+.imz{
+     height:96%;
+     text-align:center;
+}
+/*段内图片*/
+.inline{
+	height:1.2em;
+	vertical-align:top;
+}
+/*段内补字*/
+.inline1{
+	height:1.2em;
+	vertical-align:top;
+}
+/*段内二维码*/
+.inline2{
+	height:5em;
+	vertical-align:top;
+}
+/*封面图片*/
+.cover {
+	width:100%;
+	padding:0px;
+}
+/*居中图说*/
+.img{
+	text-align:center;
+	font-size:0.9em;
+	font-weight:bold;
+	margin-left:0%;
+	text-indent:0em;
+}
+
+
+/*---------图说左齐-----------*/
+.i100{
+	width:100%;
+	margin:auto;
+}
+.i80{
+	width:80%;
+	margin:auto;
+	margin-top:2em;
+	margin-bottom:2em;
+
+}
+/*居左图说*/
+.imgl{
+	text-align:left;
+	font-size:0.9em;
+	font-weight:bold;
+	margin-left:0%;
+	text-indent:0em;
+}
+
+
+/*----------画廊-----------*/
+.duokan-image{
+	width:100%;
+	margin:auto;
+}
+.duokan-image-gallery-cell{
+	width:100%;
+	margin:auto;
+}
+.duokan-center{
+	width:80%;
+	margin:auto;
+}
+
+/*---------段落---------*/
+p
+{
+	margin-top:0.5em;
+	text-indent:2em;
+	font-size:1em;
+}
+
+
+/*---------左、中、右段落---------*/
+/*居左段落*/
+.left {
+	text-align:left;
+	text-indent:0em;
+	margin-left:0%;
+	margin-right:0%;
+}
+/*居中段落*/
+.center {
+	text-indent:0em;
+	text-align:center;
+	margin-left:0%;
+	margin-right:0%;
+}
+/*居右段落*/
+.right {
+	text-align:right;
+	margin-left:0%;
+	margin-right:0em;
+}
+
+
+/*---------小于正文字号段落---------*/
+/*小于正文字号段落*/
+.p1
+{
+	margin-top:0.5em;
+	text-indent:2em;
+	font-size:0.8em;
+}
+
+/*小于正文字号居左段落*/
+.left1 {
+	font-size:0.8em;
+	text-align:left;
+	text-indent:0em;
+	margin-left:0%;
+	margin-right:0%;
+}
+/*小于正文字号居中段落*/
+.center1 {
+	font-size:0.8em;
+	text-indent:0em;
+	text-align:center;
+	margin-left:0%;
+	margin-right:0%;
+}
+/*小于正文字号居右段落*/
+.right1 {
+	font-size:0.8em;
+	text-align:right;
+	margin-left:0%;
+	margin-right:0em;
+}
+
+
+/*---------正文缩进2个字符段落---------*/
+/*段落缩进2个字符*/
+.p2
+{
+	margin-left:2em;
+}
+/*左齐段落缩进2个字符*/
+.left2
+{
+	text-align:left;
+	text-indent:0em;
+	margin-left:2em;
+	margin-right:0%;
+}
+/*居中段落缩进2个字符*/
+.center2
+{
+	text-indent:0em;
+	text-align:center;
+	margin-left:2em;
+	margin-right:0%;
+}
+/*右齐段落缩进2个字符*/
+.right2
+{
+	text-align:right;
+	margin-left:0%;
+	margin-right:0em;
+	margin-left:0em;
+}
+
+/*---------段落缩进比正文字体小---------*/
+/*段落缩进比正文字体小*/
+.p3
+{
+	font-size:0.8em;
+	margin-left:2em;
+}
+/*段落缩进比正文字体小左齐*/
+.left3
+{
+	font-size:0.8em;
+	text-align:left;
+	text-indent:0em;
+	margin-left:2em;
+	margin-right:0%;
+}
+/*段落缩进比正文字体小居中*/
+.center3
+{
+	font-size:0.8em;
+	text-indent:0em;
+	text-align:center;
+	margin-left:2em;
+	margin-right:0%;
+}
+/*段落缩进比正文字体小右齐*/
+.right3
+{
+	font-size:0.8em;
+	text-align:right;
+	margin-left:2em;
+	margin-right:0em;
+}
+
+
+/*---------小字段楷体---------*/
+/*段落小字段楷体*/
+.block
+{
+	
+	margin-left:2em;
+}
+/*小字段居左楷体*/
+.blockkl
+{
+	
+	text-align:left;
+	text-indent:0em;
+	margin-left:2em;
+	margin-right:0%;
+}
+/*小字段居中楷体*/
+.blockkc
+{
+	
+	text-indent:0em;
+	text-align:center;
+	margin-left:2em;
+	margin-right:0%;
+}
+/*小字段居右楷体*/
+.blockkr
+{
+	
+	text-align:right;
+	margin-left:2em;
+	margin-right:0em;
+}
+
+
+/*---------小字段仿宋---------*/
+/*段落小字段仿宋*/
+.blockf
+{
+	
+	margin-left:2em;
+}
+/*小字段居左仿宋*/
+.blockfl
+{
+	
+	text-align:left;
+	text-indent:0em;
+	margin-left:2em;
+	margin-right:0%;
+}
+/*小字段居中仿宋*/
+.blockfc
+{
+	
+	text-indent:0em;
+	text-align:center;
+	margin-left:2em;
+	margin-right:0%;
+}
+/*小字段居右仿宋*/
+.blockfr
+{
+	
+	text-align:right;
+	margin-left:2em;
+	margin-right:0em;
+}
+
+/*---------段内字号---------*/
+/*小于1倍字号*/
+.fontsize{
+	font-size:0.8em;
+}
+/*大于1倍字号*/
+.fontsize1{
+	font-size:1.1em;
+}
+
+
+/*---------段内字体---------*/
+/*段内楷体*/
+.kaiti
+{
+	
+}
+
+/*段内仿宋*/
+.fangsong
+{
+	
+}
+
+/*---------注解---------*/
+.note{
+	font-size:0.6em;
+	
+}
+
+
+/*---------边框---------*/
+.fieldset {
+    border: 1px dotted black;
+    border-radius: 5px;
+	font-size:0.9em;/*16px;*/
+	color: #666666;
+	
+	padding-top:1em;
+}
+
+/*---------下划线---------*/
+.u { 
+
+      text-decoration:underline; }
+
+

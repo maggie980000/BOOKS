@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BKAllocatedSize</key>
+	<integer>8503296</integer>
+	<key>BKDisplayName</key>
+	<string>14680259_贾想：贾樟柯电影手记（套装共2册）</string>
+	<key>BKGenerationCount</key>
+	<integer>2</integer>
+	<key>BKInsertionDate</key>
+	<integer>757410506</integer>
+	<key>artistName</key>
+	<string>贾樟柯、万佳欢</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>2337B8CB347922937D2A1F18C9871458</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/Images/cover00317.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>AB8A7E481B2BB0528164BF3240319A65</string>
+		<key>publisher-unique-id</key>
+		<string>1958772862</string>
+		<key>unique-id</key>
+		<integer>690432757546810924</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>isPreview</key>
+	<false/>
+	<key>itemName</key>
+	<string>贾想1+贾想2（套装）</string>
+	<key>updateDate</key>
+	<date>2025-01-01T07:48:26Z</date>
+</dict>
+</plist>

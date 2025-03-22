@@ -1,0 +1,627 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+<head>
+<meta content="1958772862" name="dtb:uid"/>
+<meta content="3" name="dtb:depth"/>
+<meta content="mobiunpack.py" name="dtb:generator"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>贾想1+贾想2（套装）</text>
+</docTitle>
+<navMap>
+    <navPoint id="np_1" playOrder="1">
+    <navLabel>
+    <text>目录</text>
+    </navLabel>
+    <content src="Text/part0000.xhtml"/>
+    </navPoint>
+    <navPoint id="np_2" playOrder="2">
+    <navLabel>
+    <text>贾想.Ⅰ，贾樟柯电影手记1996-2008</text>
+    </navLabel>
+    <content src="Text/part0001.xhtml"/>
+      <navPoint id="np_3" playOrder="3">
+      <navLabel>
+      <text>书名页</text>
+      </navLabel>
+      <content src="Text/part0003.xhtml"/>
+      </navPoint>
+      <navPoint id="np_4" playOrder="4">
+      <navLabel>
+      <text>版权页</text>
+      </navLabel>
+      <content src="Text/part0004.xhtml"/>
+      </navPoint>
+      <navPoint id="np_5" playOrder="5">
+      <navLabel>
+      <text>目录</text>
+      </navLabel>
+      <content src="Text/part0005.xhtml"/>
+      </navPoint>
+      <navPoint id="np_6" playOrder="6">
+      <navLabel>
+      <text>序言</text>
+      </navLabel>
+      <content src="Text/part0006.xhtml#a004"/>
+      </navPoint>
+      <navPoint id="np_7" playOrder="7">
+      <navLabel>
+      <text>1996年，《小山回家》</text>
+      </navLabel>
+      <content src="Text/part0007.xhtml#a006"/>
+        <navPoint id="np_8" playOrder="8">
+        <navLabel>
+        <text>我的焦点</text>
+        </navLabel>
+        <content src="Text/part0007.xhtml#b001"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_9" playOrder="9">
+      <navLabel>
+      <text>1998年，《小武》</text>
+      </navLabel>
+      <content src="Text/part0008.xhtml#a007"/>
+        <navPoint id="np_10" playOrder="10">
+        <navLabel>
+        <text>片段的决定——《小武》</text>
+        </navLabel>
+        <content src="Text/part0008.xhtml#b002"/>
+        </navPoint>
+        <navPoint id="np_11" playOrder="11">
+        <navLabel>
+        <text>我不诗化自己的经历</text>
+        </navLabel>
+        <content src="Text/part0009.xhtml#b003"/>
+        </navPoint>
+        <navPoint id="np_12" playOrder="12">
+        <navLabel>
+        <text>业余电影时代即将再次到来</text>
+        </navLabel>
+        <content src="Text/part0010.xhtml#b004"/>
+        </navPoint>
+        <navPoint id="np_13" playOrder="13">
+        <navLabel>
+        <text>有了VCD和数码摄像机以后</text>
+        </navLabel>
+        <content src="Text/part0011.xhtml#b005"/>
+        </navPoint>
+        <navPoint id="np_14" playOrder="14">
+        <navLabel>
+        <text>东京之夏</text>
+        </navLabel>
+        <content src="Text/part0012.xhtml#b006"/>
+        </navPoint>
+        <navPoint id="np_15" playOrder="15">
+        <navLabel>
+        <text>一个来自中国基层的民间导演（对谈）</text>
+        </navLabel>
+        <content src="Text/part0013.xhtml#b007"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_16" playOrder="16">
+      <navLabel>
+      <text>2000年，《站台》</text>
+      </navLabel>
+      <content src="Text/part0014.xhtml#a008"/>
+        <navPoint id="np_17" playOrder="17">
+        <navLabel>
+        <text>片段的决定——《站台》</text>
+        </navLabel>
+        <content src="Text/part0014.xhtml#b008"/>
+        </navPoint>
+        <navPoint id="np_18" playOrder="18">
+        <navLabel>
+        <text>谁在开创华语电影的新世纪</text>
+        </navLabel>
+        <content src="Text/part0015.xhtml#b009"/>
+        </navPoint>
+        <navPoint id="np_19" playOrder="19">
+        <navLabel>
+        <text>假科长的《站台》你买了吗？</text>
+        </navLabel>
+        <content src="Text/part0016.xhtml#b010"/>
+        </navPoint>
+        <navPoint id="np_20" playOrder="20">
+        <navLabel>
+        <text>经验世界中的影像选择（笔谈）</text>
+        </navLabel>
+        <content src="Text/part0017.xhtml#b011"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_21" playOrder="21">
+      <navLabel>
+      <text>2001年，《公共场所》</text>
+      </navLabel>
+      <content src="Text/part0018.xhtml#a009"/>
+        <navPoint id="np_22" playOrder="22">
+        <navLabel>
+        <text>《公共场所》自述</text>
+        </navLabel>
+        <content src="Text/part0018.xhtml#b012"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_23" playOrder="23">
+      <navLabel>
+      <text>2002年，《任逍遥》</text>
+      </navLabel>
+      <content src="Text/part0019.xhtml#a010"/>
+        <navPoint id="np_24" playOrder="24">
+        <navLabel>
+        <text>我比孙悟空头疼</text>
+        </navLabel>
+        <content src="Text/part0019.xhtml#b013"/>
+        </navPoint>
+        <navPoint id="np_25" playOrder="25">
+        <navLabel>
+        <text>有酒方能意识流</text>
+        </navLabel>
+        <content src="Text/part0020.xhtml#b014"/>
+        </navPoint>
+        <navPoint id="np_26" playOrder="26">
+        <navLabel>
+        <text>无法禁止的影像——从1995年开始的中国新电影</text>
+        </navLabel>
+        <content src="Text/part0021.xhtml#b015"/>
+        </navPoint>
+        <navPoint id="np_27" playOrder="27">
+        <navLabel>
+        <text>世界就在榻榻米上</text>
+        </navLabel>
+        <content src="Text/part0022.xhtml#b016"/>
+        </navPoint>
+        <navPoint id="np_28" playOrder="28">
+        <navLabel>
+        <text>听说电影的春天就要到了</text>
+        </navLabel>
+        <content src="Text/part0023.xhtml#b017"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_29" playOrder="29">
+      <navLabel>
+      <text>2004年，《世界》</text>
+      </navLabel>
+      <content src="Text/part0024.xhtml#a011"/>
+        <navPoint id="np_30" playOrder="30">
+        <navLabel>
+        <text>乌兰巴托的夜（《世界》插曲）</text>
+        </navLabel>
+        <content src="Text/part0024.xhtml#b018"/>
+        </navPoint>
+        <navPoint id="np_31" playOrder="31">
+        <navLabel>
+        <text>写给山形电影节</text>
+        </navLabel>
+        <content src="Text/part0025.xhtml#b019"/>
+        </navPoint>
+        <navPoint id="np_32" playOrder="32">
+        <navLabel>
+        <text>我们要看到我们基因里的缺陷（演讲）</text>
+        </navLabel>
+        <content src="Text/part0026.xhtml#b020"/>
+        </navPoint>
+        <navPoint id="np_33" playOrder="33">
+        <navLabel>
+        <text>我的电影基因</text>
+        </navLabel>
+        <content src="Text/part0027.xhtml#b021"/>
+        </navPoint>
+        <navPoint id="np_34" playOrder="34">
+        <navLabel>
+        <text>花火怒放，录像机不转</text>
+        </navLabel>
+        <content src="Text/part0028.xhtml#b022"/>
+        </navPoint>
+        <navPoint id="np_35" playOrder="35">
+        <navLabel>
+        <text>这一年总算就要过去</text>
+        </navLabel>
+        <content src="Text/part0029.xhtml#b023"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_36" playOrder="36">
+      <navLabel>
+      <text>2006年，《三峡好人》</text>
+      </navLabel>
+      <content src="Text/part0030.xhtml#a012"/>
+        <navPoint id="np_37" playOrder="37">
+        <navLabel>
+        <text>2006年的暗影与光明</text>
+        </navLabel>
+        <content src="Text/part0030.xhtml#b024"/>
+        </navPoint>
+        <navPoint id="np_38" playOrder="38">
+        <navLabel>
+        <text>迷茫记</text>
+        </navLabel>
+        <content src="Text/part0031.xhtml#b025"/>
+        </navPoint>
+        <navPoint id="np_39" playOrder="39">
+        <navLabel>
+        <text>相信什么就拍什么（对谈）</text>
+        </navLabel>
+        <content src="Text/part0032.xhtml#b026"/>
+        </navPoint>
+        <navPoint id="np_40" playOrder="40">
+        <navLabel>
+        <text>这是我们一整代人的懦弱（演讲）</text>
+        </navLabel>
+        <content src="Text/part0033.xhtml#b027"/>
+        </navPoint>
+        <navPoint id="np_41" playOrder="41">
+        <navLabel>
+        <text>大片中弥漫细菌破坏社会价值（对谈）</text>
+        </navLabel>
+        <content src="Text/part0034.xhtml#b028"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_42" playOrder="42">
+      <navLabel>
+      <text>2006年，《东》</text>
+      </navLabel>
+      <content src="Text/part0035.xhtml#a013"/>
+        <navPoint id="np_43" playOrder="43">
+        <navLabel>
+        <text>马丁·斯科塞斯——我的“长辈”</text>
+        </navLabel>
+        <content src="Text/part0035.xhtml#b029"/>
+        </navPoint>
+        <navPoint id="np_44" playOrder="44">
+        <navLabel>
+        <text>每个人都有贴近自己身体的艺术（对谈）</text>
+        </navLabel>
+        <content src="Text/part0036.xhtml#b030"/>
+        </navPoint>
+        <navPoint id="np_45" playOrder="45">
+        <navLabel>
+        <text>找到人自身的美丽（对谈）</text>
+        </navLabel>
+        <content src="Text/part0037.xhtml#b031"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_46" playOrder="46">
+      <navLabel>
+      <text>2007年，《无用》</text>
+      </navLabel>
+      <content src="Text/part0038.xhtml#a014"/>
+        <navPoint id="np_47" playOrder="47">
+        <navLabel>
+        <text>当我们赤裸的时候，没有阶级区别（对谈）</text>
+        </navLabel>
+        <content src="Text/part0038.xhtml#b032"/>
+        </navPoint>
+        <navPoint id="np_48" playOrder="48">
+        <navLabel>
+        <text>是剧情片，也是纪录片（对谈）</text>
+        </navLabel>
+        <content src="Text/part0039.xhtml#b033"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_49" playOrder="49">
+      <navLabel>
+      <text>2008年，《二十四城记》</text>
+      </navLabel>
+      <content src="Text/part0040.xhtml#a015"/>
+        <navPoint id="np_50" playOrder="50">
+        <navLabel>
+        <text>阐释中国的电影诗人（对谈）</text>
+        </navLabel>
+        <content src="Text/part0040.xhtml#b034"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_51" playOrder="51">
+      <navLabel>
+      <text>附录 贾樟柯简历</text>
+      </navLabel>
+      <content src="Text/part0041.xhtml#a016"/>
+      </navPoint>
+      <navPoint id="np_52" playOrder="52">
+      <navLabel>
+      <text>封底</text>
+      </navLabel>
+      <content src="Text/part0043.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_53" playOrder="53">
+    <navLabel>
+    <text>贾想.Ⅱ,贾樟柯电影手记2008-2016</text>
+    </navLabel>
+    <content src="Text/part0044.xhtml"/>
+      <navPoint id="np_54" playOrder="54">
+      <navLabel>
+      <text>书名页</text>
+      </navLabel>
+      <content src="Text/part0046.xhtml"/>
+      </navPoint>
+      <navPoint id="np_55" playOrder="55">
+      <navLabel>
+      <text>版权页</text>
+      </navLabel>
+      <content src="Text/part0047.xhtml"/>
+      </navPoint>
+      <navPoint id="np_56" playOrder="56">
+      <navLabel>
+      <text>目录</text>
+      </navLabel>
+      <content src="Text/part0048.xhtml"/>
+      </navPoint>
+      <navPoint id="np_57" playOrder="57">
+      <navLabel>
+      <text>序言 沉入地心，或者飞向太空</text>
+      </navLabel>
+      <content src="Text/part0049.xhtml#a005"/>
+      </navPoint>
+      <navPoint id="np_58" playOrder="58">
+      <navLabel>
+      <text>《河上的爱情》 2008</text>
+      </navLabel>
+      <content src="Text/part0050.xhtml#a006"/>
+        <navPoint id="np_59" playOrder="59">
+        <navLabel>
+        <text>我的边城，我的国</text>
+        </navLabel>
+        <content src="Text/part0053.xhtml#b003"/>
+        </navPoint>
+        <navPoint id="np_60" playOrder="60">
+        <navLabel>
+        <text>其余的都是沉默</text>
+        </navLabel>
+        <content src="Text/part0054.xhtml#b004"/>
+        </navPoint>
+        <navPoint id="np_61" playOrder="61">
+        <navLabel>
+        <text>舌根上的乡愁</text>
+        </navLabel>
+        <content src="Text/part0055.xhtml#b005"/>
+        </navPoint>
+        <navPoint id="np_62" playOrder="62">
+        <navLabel>
+        <text>香港电影给我旧闻与新知</text>
+        </navLabel>
+        <content src="Text/part0056.xhtml#b006"/>
+        </navPoint>
+        <navPoint id="np_63" playOrder="63">
+        <navLabel>
+        <text>香港：就这么简单</text>
+        </navLabel>
+        <content src="Text/part0057.xhtml#b007"/>
+        </navPoint>
+        <navPoint id="np_64" playOrder="64">
+        <navLabel>
+        <text>胡同里的文艺青年</text>
+        </navLabel>
+        <content src="Text/part0058.xhtml#b008"/>
+        </navPoint>
+        <navPoint id="np_65" playOrder="65">
+        <navLabel>
+        <text>东京诸君</text>
+        </navLabel>
+        <content src="Text/part0059.xhtml#b009"/>
+        </navPoint>
+        <navPoint id="np_66" playOrder="66">
+        <navLabel>
+        <text>记忆之物</text>
+        </navLabel>
+        <content src="Text/part0060.xhtml#b010"/>
+        </navPoint>
+        <navPoint id="np_67" playOrder="67">
+        <navLabel>
+        <text>再见，青春，再见——北京之春拍摄手记</text>
+        </navLabel>
+        <content src="Text/part0061.xhtml#b011"/>
+        </navPoint>
+        <navPoint id="np_68" playOrder="68">
+        <navLabel>
+        <text>校长的话——写给釜山电影节亚洲电影学院学员的信</text>
+        </navLabel>
+        <content src="Text/part0062.xhtml#b012"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_69" playOrder="69">
+      <navLabel>
+      <text>《海上传奇》 2010</text>
+      </navLabel>
+      <content src="Text/part0063.xhtml#a007"/>
+        <navPoint id="np_70" playOrder="70">
+        <navLabel>
+        <text>遗忘了细节就是遗忘了全部（对谈）</text>
+        </navLabel>
+        <content src="Text/part0066.xhtml#b015"/>
+        </navPoint>
+        <navPoint id="np_71" playOrder="71">
+        <navLabel>
+        <text>杨德昌：他的枪声，他的孤独</text>
+        </navLabel>
+        <content src="Text/part0067.xhtml#b016"/>
+        </navPoint>
+        <navPoint id="np_72" playOrder="72">
+        <navLabel>
+        <text>美国大使、革命者和汾阳皇帝</text>
+        </navLabel>
+        <content src="Text/part0068.xhtml#b017"/>
+        </navPoint>
+        <navPoint id="np_73" playOrder="73">
+        <navLabel>
+        <text>流浪到天水</text>
+        </navLabel>
+        <content src="Text/part0069.xhtml#b018"/>
+        </navPoint>
+        <navPoint id="np_74" playOrder="74">
+        <navLabel>
+        <text>忧愁上身</text>
+        </navLabel>
+        <content src="Text/part0070.xhtml#b019"/>
+        </navPoint>
+        <navPoint id="np_75" playOrder="75">
+        <navLabel>
+        <text>先生坡上易先生</text>
+        </navLabel>
+        <content src="Text/part0071.xhtml#b020"/>
+        </navPoint>
+        <navPoint id="np_76" playOrder="76">
+        <navLabel>
+        <text>春日开博</text>
+        </navLabel>
+        <content src="Text/part0072.xhtml#b021"/>
+        </navPoint>
+        <navPoint id="np_77" playOrder="77">
+        <navLabel>
+        <text>远在他乡的故乡</text>
+        </navLabel>
+        <content src="Text/part0073.xhtml#b022"/>
+        </navPoint>
+        <navPoint id="np_78" playOrder="78">
+        <navLabel>
+        <text>在怀来“被捕”</text>
+        </navLabel>
+        <content src="Text/part0074.xhtml#b023"/>
+        </navPoint>
+        <navPoint id="np_79" playOrder="79">
+        <navLabel>
+        <text>七喜少年</text>
+        </navLabel>
+        <content src="Text/part0075.xhtml#b024"/>
+        </navPoint>
+        <navPoint id="np_80" playOrder="80">
+        <navLabel>
+        <text>做了一个汉奸梦</text>
+        </navLabel>
+        <content src="Text/part0076.xhtml#b025"/>
+        </navPoint>
+        <navPoint id="np_81" playOrder="81">
+        <navLabel>
+        <text>广场种满树会是多少棵？</text>
+        </navLabel>
+        <content src="Text/part0077.xhtml#b026"/>
+        </navPoint>
+        <navPoint id="np_82" playOrder="82">
+        <navLabel>
+        <text>我不相信，你能猜对我们的结局</text>
+        </navLabel>
+        <content src="Text/part0078.xhtml#b027"/>
+        </navPoint>
+        <navPoint id="np_83" playOrder="83">
+        <navLabel>
+        <text>侯导，孝贤</text>
+        </navLabel>
+        <content src="Text/part0079.xhtml#b028"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_84" playOrder="84">
+      <navLabel>
+      <text>《天注定》 2013</text>
+      </navLabel>
+      <content src="Text/part0080.xhtml#a008"/>
+        <navPoint id="np_85" playOrder="85">
+        <navLabel>
+        <text>在《天注定》第一次主创会议上的讲话</text>
+        </navLabel>
+        <content src="Text/part0083.xhtml#b031"/>
+        </navPoint>
+        <navPoint id="np_86" playOrder="86">
+        <navLabel>
+        <text>我的夜奔</text>
+        </navLabel>
+        <content src="Text/part0084.xhtml#b032"/>
+        </navPoint>
+        <navPoint id="np_87" playOrder="87">
+        <navLabel>
+        <text>黄河的水声也是一种方言——纪念恩师田东照先生</text>
+        </navLabel>
+        <content src="Text/part0085.xhtml#b033"/>
+        </navPoint>
+        <navPoint id="np_88" playOrder="88">
+        <navLabel>
+        <text>我不想保持含蓄，我想来个决绝的（对谈）</text>
+        </navLabel>
+        <content src="Text/part0086.xhtml#b034"/>
+        </navPoint>
+        <navPoint id="np_89" playOrder="89">
+        <navLabel>
+        <text>我是叛徒（演讲）</text>
+        </navLabel>
+        <content src="Text/part0087.xhtml#b035"/>
+        </navPoint>
+        <navPoint id="np_90" playOrder="90">
+        <navLabel>
+        <text>只有虚构才能抵达（对谈）</text>
+        </navLabel>
+        <content src="Text/part0088.xhtml#b036"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_91" playOrder="91">
+      <navLabel>
+      <text>《山河故人》 2015</text>
+      </navLabel>
+      <content src="Text/part0089.xhtml#a009"/>
+        <navPoint id="np_92" playOrder="92">
+        <navLabel>
+        <text>你我心知</text>
+        </navLabel>
+        <content src="Text/part0092.xhtml#b039"/>
+        </navPoint>
+        <navPoint id="np_93" playOrder="93">
+        <navLabel>
+        <text>站在人生的中间点（对谈）</text>
+        </navLabel>
+        <content src="Text/part0093.xhtml#b040"/>
+        </navPoint>
+        <navPoint id="np_94" playOrder="94">
+        <navLabel>
+        <text>他们比贾樟柯更孤独（对谈）</text>
+        </navLabel>
+        <content src="Text/part0094.xhtml#b041"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_95" playOrder="95">
+      <navLabel>
+      <text>《营生》 2016</text>
+      </navLabel>
+      <content src="Text/part0095.xhtml#a010"/>
+        <navPoint id="np_96" playOrder="96">
+        <navLabel>
+        <text>108次短打</text>
+        </navLabel>
+        <content src="Text/part0098.xhtml#b044"/>
+        </navPoint>
+        <navPoint id="np_97" playOrder="97">
+        <navLabel>
+        <text>阿里巴巴吃苹果</text>
+        </navLabel>
+        <content src="Text/part0099.xhtml#b045"/>
+        </navPoint>
+        <navPoint id="np_98" playOrder="98">
+        <navLabel>
+        <text>戛纳：我们为什么会来？</text>
+        </navLabel>
+        <content src="Text/part0100.xhtml#b046"/>
+        </navPoint>
+        <navPoint id="np_99" playOrder="99">
+        <navLabel>
+        <text>高考之后，放虎归山</text>
+        </navLabel>
+        <content src="Text/part0101.xhtml#b047"/>
+        </navPoint>
+        <navPoint id="np_100" playOrder="100">
+        <navLabel>
+        <text>又到正午（小说）</text>
+        </navLabel>
+        <content src="Text/part0102.xhtml#b048"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_101" playOrder="101">
+      <navLabel>
+      <text>附录 贾樟柯简历</text>
+      </navLabel>
+      <content src="Text/part0103.xhtml#a011"/>
+      </navPoint>
+      <navPoint id="np_102" playOrder="102">
+      <navLabel>
+      <text>封底</text>
+      </navLabel>
+      <content src="Text/part0105.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
